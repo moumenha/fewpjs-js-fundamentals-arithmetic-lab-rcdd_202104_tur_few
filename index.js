@@ -3,8 +3,8 @@
 
 let num1 = 2;
 let num2 = 31;
-let num3 = 5;
-let num4 = 10;
+let num3 = 59;
+let num4 = 11;
 let multiply = num1 * num2;
 
 
