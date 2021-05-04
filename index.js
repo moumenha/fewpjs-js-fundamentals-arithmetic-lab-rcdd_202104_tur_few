@@ -4,4 +4,4 @@
 let num1 = 1;
 let num2 = 31;
 
-let mul
+let multiply = num1 + num2;
